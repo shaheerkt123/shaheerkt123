@@ -1,68 +1,67 @@
-# Hi, I'm Muhammed Shaheer 👋
+Hey, I'm Shaheer 👋
+Computer Engineering Diploma Student | Developer | Go & Networking
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Python+Developer;Full-Stack+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
-</div>
+I'm a Computer Engineering diploma student passionate about exploring how software works under the hood, building projects, and learning through hands-on experimentation.
 
-## 🚀 About Me
+I'm particularly interested in backend development, networking, and systems programming. I enjoy turning ideas into working software and understanding the engineering decisions behind it.
 
-Passionate **high school tech enthusiast** specializing in modern web development, AI/ML, and cybersecurity. I build innovative solutions and explore cutting-edge technologies.
+🎓 Currently pursuing a Diploma in Computer Engineering
+🔭 Exploring Go and network programming
+🛠️ Building projects to improve my software engineering skills
+🌱 Learning about backend systems, APIs, and secure software development
+💡 Interested in open source, problem-solving, and systems engineering
+🤝 Open to connecting with developers and collaborating on interesting projects
+🚀 Featured Projects
+shell-over-ntfy
 
-- 🔭 Working on **AI-powered web applications** and **full-stack development**
-- 🌱 Learning **Machine Learning** and **cloud architecture**
-- 👯 Open to collaborating on **AI/ML projects**
-- 🎯 **Little Kites District Level Certified**
+A project that enables sharing shell access without relying on SSH or traditional port forwarding.
 
-## 🛠️ Tech Stack
+Built with: Go
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+View Repository →
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+tcp-over-ntfy
 
-## 📊 GitHub Stats
+A networking project that forwards TCP traffic through ntfy.
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shaheerkt123&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerkt123&layout=compact&theme=react&hide_border=true"/>
-</div>
+Built with: Go
 
-## 🔥 What I'm Building
+View Repository →
 
-**🤖 AI-Powered Applications**  
-Full-stack web apps integrating modern AI tools with React frontends and FastAPI backends
+🧰 Technologies & Tools
 
-**🛡️ Security Projects**  
-Cybersecurity tools and analysis using Kali Linux and penetration testing frameworks
+Languages
 
-**☁️ Cloud-Native Solutions**  
-Scalable applications deployed on Railway, Render.io, and GitHub Pages
+Go
+Python
+C
 
-## 🎯 Current Focus
+Tools
 
-- 🔬 **Research**: AI/ML applications in web development
-- 🏗️ **Building**: Modern full-stack applications
-- 🛡️ **Security**: Ethical hacking and network analysis
-- ☁️ **Cloud**: DevOps and deployment optimization
+Git
+GitHub
 
----
+Areas of Interest
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shaheerkt1234@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shaheerkt123)
+Networking
+Backend Development
+Systems Programming
+📚 Currently Learning
+🦀 Rust — Exploring systems programming, memory safety, and performance
+⚡ TypeScript — Learning type-safe JavaScript and modern application development
 
-**"Building tomorrow's solutions with today's technology"** ✨
+I'm continuously expanding my skills through hands-on practice, experimentation, and personal projects.
 
-<img src="https://komarev.com/ghpvc/?username=shaheerkt123&style=flat&color=blue" alt="Profile Views" />
+🎯 My Goals
+Build useful, reliable, and well-documented software
+Strengthen my understanding of networking and software architecture
+Contribute to open-source projects
+Explore systems programming and backend engineering
+Learn from experienced developers and collaborate with the community
+🤝 Let's Connect
 
-</div>
+I'm always happy to learn from other developers, exchange ideas, and explore interesting projects.
+
+💻 GitHub: @shaheerkt123
+
+Learning by building. Improving one project at a time.
