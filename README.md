@@ -1,67 +1,58 @@
 Hey, I'm Shaheer 👋
-Computer Engineering Diploma Student | Developer | Go & Networking
+Computer Engineering Student | Go Developer | Backend & Networking Enthusiast
 
-I'm a Computer Engineering diploma student passionate about exploring how software works under the hood, building projects, and learning through hands-on experimentation.
+I'm a Computer Engineering diploma student passionate about building software, understanding systems at a deeper level, and solving practical engineering problems.
 
-I'm particularly interested in backend development, networking, and systems programming. I enjoy turning ideas into working software and understanding the engineering decisions behind it.
+I primarily work with Go, with a growing focus on backend development, network programming, and systems engineering. I enjoy experimenting with protocols, exploring how software communicates under the hood, and turning technical ideas into working projects.
 
-🎓 Currently pursuing a Diploma in Computer Engineering
-🔭 Exploring Go and network programming
-🛠️ Building projects to improve my software engineering skills
-🌱 Learning about backend systems, APIs, and secure software development
-💡 Interested in open source, problem-solving, and systems engineering
-🤝 Open to connecting with developers and collaborating on interesting projects
+🔭 Building projects in Go, networking, and backend development
+🌱 Exploring Rust, TypeScript, and secure software development
+🛠️ Interested in APIs, network protocols, and systems programming
+🤝 Open to open-source contributions, collaboration, and internship opportunities
 🚀 Featured Projects
 shell-over-ntfy
 
-A project that enables sharing shell access without relying on SSH or traditional port forwarding.
+A Go-based project exploring an alternative approach to remote shell access using ntfy, without relying on traditional SSH connectivity or conventional port forwarding.
 
-Built with: Go
-
-View Repository →
+Tech: Go · Networking · ntfy
 
 tcp-over-ntfy
 
-A networking project that forwards TCP traffic through ntfy.
+A networking experiment that explores forwarding TCP traffic through ntfy, investigating alternative communication paths and the challenges of tunneling network traffic.
 
-Built with: Go
+Tech: Go · TCP/IP · Network Programming · ntfy
 
-View Repository →
-
-🧰 Technologies & Tools
+🧰 Technical Skills
 
 Languages
 
 Go
 Python
 C
+Rust (learning)
+TypeScript (learning)
 
-Tools
+Tools & Platforms
 
-Git
-GitHub
+Git and GitHub
 
 Areas of Interest
 
-Networking
-Backend Development
+Backend Development and APIs
+Computer Networking and TCP/IP
 Systems Programming
-📚 Currently Learning
-🦀 Rust — Exploring systems programming, memory safety, and performance
-⚡ TypeScript — Learning type-safe JavaScript and modern application development
-
-I'm continuously expanding my skills through hands-on practice, experimentation, and personal projects.
-
-🎯 My Goals
-Build useful, reliable, and well-documented software
-Strengthen my understanding of networking and software architecture
-Contribute to open-source projects
-Explore systems programming and backend engineering
-Learn from experienced developers and collaborate with the community
+Secure Software Development
+Software Architecture
+🎯 What I'm Working Toward
+Building reliable, maintainable, and well-documented software
+Deepening my understanding of networking and distributed systems
+Developing practical backend and systems engineering skills
+Contributing to open-source projects and learning from code reviews
+Collaborating with developers on challenging, real-world problems
 🤝 Let's Connect
 
-I'm always happy to learn from other developers, exchange ideas, and explore interesting projects.
+I'm always interested in connecting with developers, contributing to meaningful projects, and learning from the open-source community.
 
 💻 GitHub: @shaheerkt123
 
-Learning by building. Improving one project at a time.
+Learning by building. Engineering through experimentation. Improving with every project.
